@@ -1,3 +1,9 @@
+/*
+ * File: errors.c
+ * Auth: Olwethu Tokots
+ *         Mawethu Hlophe
+ */
+
 #include "monty.h"
 
 /**
